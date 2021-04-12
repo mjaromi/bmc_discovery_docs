@@ -16,7 +16,7 @@
 
 ## Knowledge Articles
 * https://community.bmc.com/s/topic/0TO3n000000WJUFGA4/discovery?tabset-19d80=3
-* https://community.bmc.com/s/global-search/%40uri?topicfilter=Discovery#q=query&t=All&sort=relevancy&f:topicfilter=[Discovery]
+* https://community.bmc.com/s/global-search/%40uri?topicfilter=Discovery&f%3Atopicfilter=[Discovery]&sort=relevancy&t=All#t=All&sort=relevancy&f:topicfilter=[Discovery]
 
 ## Ideas
 * https://community.bmc.com/s/topic/0TO3n000000WJUFGA4/discovery?tabset-19d80=812de
