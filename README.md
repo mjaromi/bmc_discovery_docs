@@ -20,3 +20,9 @@
 
 ## Ideas
 * https://community.bmc.com/s/topic/0TO3n000000WJUFGA4/discovery?tabset-19d80=812de
+
+## Udemy - TPL Crash Course for BMC Discovery (author: Wes Moskal-Fitzpatrick)
+* https://www.udemy.com/course/tpl-crash-course-bmc-discovery/
+
+## Python
+* https://github.com/traversys/Tideway/ - Simplified Python library for BMC Discovery API Interface
